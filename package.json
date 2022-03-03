@@ -1,0 +1,24 @@
+{
+  "name": "desafio-programacao-capgemini",
+  "version": "1.0.0",
+  "description": "",
+  "main": "questao-01.js",
+  "scripts": {
+    "test": "jest", 
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikaelenoliveira/desafio-programacao-capgemini.git"
+  },
+  "keywords": [],
+  "author": "Mikaelen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikaelenoliveira/desafio-programacao-capgemini/issues"
+  },
+  "homepage": "https://github.com/mikaelenoliveira/desafio-programacao-capgemini#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}

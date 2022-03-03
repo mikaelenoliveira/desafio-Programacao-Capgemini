@@ -1,6 +1,4 @@
-const lista = [9, 2, 1, 4, 6];
-
-function CalcularMediana() {
+function CalcularMediana(lista) {
   lista.sort((a, b) => {
     return a - b;
   });
@@ -8,8 +6,7 @@ function CalcularMediana() {
   const meio = Math.floor(lista.length / 2);
   const mediana =
     lista.length % 2 !== 0 ? lista[meio] : (lista[meio - 1] + lista[meio]) / 2;
-
-  console.log(mediana);
+  return mediana;
 }
 
-CalcularMediana();
+module.exports = CalcularMediana;
