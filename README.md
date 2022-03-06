@@ -1,4 +1,4 @@
-# Desafio Programacao Academia Capgemini
+# Desafio Programação Academia Capgemini
 
 ## Sobre
 
