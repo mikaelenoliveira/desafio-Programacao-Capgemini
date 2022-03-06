@@ -8,7 +8,7 @@ Este projeto, foi desenvolvido como proposta de teste lógico de programação p
 
 É necessario ter o NodeJS instalado. Versão utilizada no projeto v16.13.1.
 
-- Nodejs (htpps://nodejs.org)
+- Nodejs (https://nodejs.org)
 
 ## Clonando e rodando o projeto
 
